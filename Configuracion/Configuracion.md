@@ -1,5 +1,5 @@
 # Configuracion
-En este apartado encontraras el script para que puedas ejecutarlo en tu equipo de computo. 
+En este apartado encontraras el script para que puedas ejecutarlo en tu equipo de computo.  
 Nota ➞ Recuerda que debes de tener previamente instalado los siguientes programas:
 
 - MICROSOFT SQL SERVER ➞ https://www.microsoft.com/es-mx/sql-server/sql-server-downloads
