@@ -22,6 +22,8 @@ Para el desarrollo de la base de datos utilizamos:
 - MICROSOFT SQL SERVER MANAGMENT ➞ Interfaz grafica (GUI).
 
 ## 5.- Aplicación.
+Esta se encuentra en el apartado de configuracion ➞ https://github.com/Gilberto-Guzman/Proyecto-Final-Topicos-Avanzados-De-Bases-De-Datos/tree/main/Configuracion
+
 ## 6.- Referencias Bibliográficas.
 
 - SQL SERVER DOCUMENTATION: https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16
