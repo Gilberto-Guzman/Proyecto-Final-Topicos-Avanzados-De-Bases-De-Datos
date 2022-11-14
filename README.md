@@ -18,8 +18,8 @@ Desarrollar una base de datos Relacional Para una pizzeria Con los parametros so
 
 ## 4.- Tecnologia de desarrollo.
 Para el desarrollo de la base de datos utilizamos:
-- MICROSOFT SQL SERVER --> Sistema de Gestion de datos relacional.
-- MICROSOFT SQL SERVER MANAGMENT --> Interfaz grafica (GUI).
+- MICROSOFT SQL SERVER ➞ Sistema de Gestion de datos relacional.
+- MICROSOFT SQL SERVER MANAGMENT ➞ Interfaz grafica (GUI).
 
 ## 5.- Aplicación.
 ## 6.- Referencias Bibliográficas.
