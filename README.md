@@ -23,3 +23,6 @@ Para el desarrollo de la base de datos utilizamos:
 
 ## 5.- Aplicación.
 ## 6.- Referencias Bibliográficas.
+
+- SQL SERVER DOCUMENTATION: https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16
+- CURSO DE SQL SERVER: https://www.youtube.com/watch?v=bW-NYf606fM&list=PL6hPvfzEEMDaU4aiS389oXamdN8sip856
